@@ -4,7 +4,12 @@ Read a THR file and simulate the motion of a ball rolling over a table covered i
 
 ## Usage
 
+Get the [Release](https://github.com/MarginallyClever/ShowTHR/releases) version or build it yourself from source code.
+Run it from the command line.
+
 ```java -jar ShowTHR.jar <source.thr> <output> [-w <width>] [-h <height>] [-d <depth>] [-b <radius>]```
+
+where `<requires a value>` and `[optional parts]`
 
 - `<source.thr>`: The path to the THR file.
 - `<output>`: The path to the output file.  ImageIO supported formats are accepted, including pio and webp.
