@@ -20,6 +20,10 @@ where `<requires a value>` and `[optional parts]`
 
 ## Example
 
+```java -jar ShowTHR.jar "src/test/resources/Vaporeon with Waves.thr" sand_simulation.png -w 1000 -h 1000```
+
+should produce the following:
+
 ![Example](sand_simulation.png)
 
 ## Notes
